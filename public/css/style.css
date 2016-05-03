@@ -11,3 +11,15 @@
 .footer {
   margin-top: 25px;
 }
+
+.container{font-size: 45px;
+   color: #2330e8;
+  font:Arvo;
+}
+
+.shorter {
+  width: 80% !important;
+  margin: 0 auto !important;
+  
+}
+
